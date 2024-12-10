@@ -1,7 +1,3 @@
-Here is a **detailed README.md** for your GitHub project on **Retinopathy of Prematurity (ROP) Classification Using Fundus Images and Deep Learning Algorithms**:
-
----
-
 # **Retinopathy of Prematurity (ROP) Classification Using Fundus Images and Deep Learning**
 
 ## **Overview**
