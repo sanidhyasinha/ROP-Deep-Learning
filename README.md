@@ -37,6 +37,7 @@ This project automates the ROP classification process through deep learning and 
 - Identifying **plus disease**, characterized by vessel dilation and tortuosity.
 - Reducing the workload of ophthalmologists, especially in under-resourced settings.
 
+
 ---
 
 ## **Dataset**
@@ -52,6 +53,7 @@ The model is trained and tested on publicly available **fundus image datasets** 
   - Stage 4 (Partial retinal detachment)  
   - Stage 5 (Complete retinal detachment)  
   - Plus Disease
+![rop1](https://github.com/user-attachments/assets/d0a7061c-69b7-49cd-8724-5c8c8dfc3243)
 
 ### **Folder Structure**:
 ```bash
