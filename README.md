@@ -221,7 +221,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - **Open-Source Datasets**: DRIVE, Kaggle, and other ROP datasets.
 - **Libraries**: PyTorch, TensorFlow, OpenCV, NumPy, and Matplotlib.
 - Thanks to medical experts for labeling data and validating the results.
-
----
-
-**Let's prevent blindness in infants with the power of AI!** 🚀
