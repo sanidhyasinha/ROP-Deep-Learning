@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** for your GitHub project on **Retinopathy of Prematurity (ROP) Classification Using Fundus Images and Deep Learning**.
-
----
-
 # **ROP Classification Using Fundus Images and Deep Learning**
 
 ### **Overview**
@@ -151,7 +147,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Open-source Datasets**: DRIVE, Kaggle, and related sources.
 - **Libraries Used**: PyTorch, TensorFlow, OpenCV, and NumPy.
 - Thanks to medical experts and contributors who made the labeled data available.
-
----
-
-Feel free to use this template for your project and customize it further! 🚀
