@@ -177,11 +177,8 @@ python visualize.py --image data/sample.jpg --weights saved_model.pth
 ## **Results**
 
 ### **Model Performance**:
-| Model         | Accuracy | Precision | Recall | F1-Score | AUC-ROC |
-|---------------|----------|-----------|--------|----------|---------|
-| ResNet50      | 95.2%    | 93.5%     | 94.1%  | 93.8%    | 97.5%   |
-| DenseNet121   | 94.5%    | 92.8%     | 93.0%  | 92.9%    | 96.9%   |
-| EfficientNetB0| 96.0%    | 94.8%     | 95.1%  | 94.9%    | 98.1%   |
+
+![Screenshot 2024-12-11 215221](https://github.com/user-attachments/assets/61a802cb-f7d0-4b80-bc5c-2125ae8b346e)
 
 ### **Example Outputs**:
 - Correct classification of ROP stages.
