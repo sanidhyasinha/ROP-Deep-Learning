@@ -66,6 +66,9 @@ The model is trained and tested on publicly available **fundus image datasets** 
   - Stage 4 (Partial retinal detachment)  
   - Stage 5 (Complete retinal detachment)  
   - Plus Disease
+ 
+  - ![Screenshot 2024-09-26 193359](https://github.com/user-attachments/assets/cbebbd01-fa80-4e2e-8953-fdf5fae391c6)
+
 
 ### **Folder Structure**:
 ```bash
@@ -88,6 +91,8 @@ Fundus images are preprocessed for optimal input to the deep learning model:
    - Random rotation
    - Horizontal flipping
    - Brightness/contrast adjustments
+     
+![CNN](https://github.com/user-attachments/assets/0a1f2578-0636-4e27-b277-8c9ea0abda1f)
 
 ---
 
@@ -100,11 +105,13 @@ The project uses CNN-based models for image classification:
 
 ### **2. Transfer Learning**
 Pre-trained models are fine-tuned on the ROP dataset:
-- **ResNet50**
-- **DenseNet121**
-- **EfficientNetB0**  
+- **CNN-19**
 
-These models enable faster convergence and better performance, especially with small datasets.
+![Screenshot 2024-12-10 225836](https://github.com/user-attachments/assets/ade1db59-2dec-4f08-b0b1-90051f2b0193)
+
+![Screenshot 2024-12-10 111304](https://github.com/user-attachments/assets/9dbfca6d-663b-420a-83f0-1b1a21be5583)
+
+
 
 ---
 
