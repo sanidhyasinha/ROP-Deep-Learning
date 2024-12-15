@@ -46,7 +46,10 @@ Medical images of the retina showing blood vessels and optic structures.
 -Stage 2 ROP: Visible ridge
 -Stage 3 ROP: Blood vessels in the ridge         
 -Stage 4 ROP: Sub-total retinal detachment
--Stage 5 ROP: Total retinal detachment                         
+-Stage 5 ROP: Total retinal detachment       
+
+![Screenshot 2024-12-11 130105](https://github.com/user-attachments/assets/49299e3d-7ef2-4ead-8082-b40caa3d60cd)
+
 
 ---
 
