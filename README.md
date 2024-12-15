@@ -30,23 +30,23 @@ By leveraging deep learning algorithms, the project provides:
 ---
 
 ## **Introduction**
-What is Retinopathy of Prematurity?
-ROP is an eye disease affecting premature infants with low birth weight (<3 pounds).
-It occurs due to abnormal blood vessel growth in the retina.
+**What is Retinopathy of Prematurity?**
+-ROP is an eye disease affecting premature infants with low birth weight (<3 pounds).
+-It occurs due to abnormal blood vessel growth in the retina.
 
- Why is ROP Important?
-  A leading cause of visual impairment and blindness in premature infants.
-   Early detection can prevent severe vision loss.
+ **Why is ROP Important?**
+-A leading cause of visual impairment and blindness in premature infants.
+-Early detection can prevent severe vision loss.
 
-What is Fundus Image?
+**What is Fundus Image?**
 Medical images of the retina showing blood vessels and optic structures.
 
-Stages Of Retinopathy of Prematurity:
-Stage 1 ROP: Demarcation of Line                 Stage 2 ROP: Visible ridge
-Stage 3 ROP: Blood vessels in the ridge         Stage 4 ROP: Sub-total retinal detachment
-Stage 5 ROP: Total retinal detachment                         
-![image](https://github.com/user-attachments/assets/72018e32-650e-4557-9323-38965f79bdef)
-
+**Stages Of Retinopathy of Prematurity:**
+-Stage 1 ROP: Demarcation of Line                 
+-Stage 2 ROP: Visible ridge
+-Stage 3 ROP: Blood vessels in the ridge         
+-Stage 4 ROP: Sub-total retinal detachment
+-Stage 5 ROP: Total retinal detachment                         
 
 ---
 
